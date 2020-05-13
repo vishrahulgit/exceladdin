@@ -9,8 +9,8 @@ Low Security
   • Protect
   • Unprotect
 Medium Security
-  • 
-  • 
+  • Protect
+  • Unprotect
 High Security
   • 
 Select Cells Convert to Number
