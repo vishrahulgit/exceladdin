@@ -12,7 +12,8 @@ Medium Security
   • Protect
   • Unprotect
 High Security
-  • 
+  • Protect
+  • Unprotect
 Select Cells Convert to Number
   • 
 All Sheets on A1 Cell
