@@ -16,8 +16,8 @@ High Security
   • Unprotect
 Convert to Number
   • Select Cells Convert to Number
-All Sheets on A1 Cell
-  • 
+A1 Cell
+  • All Sheets on A1 Cell
 Remove Formula
   • 
 Selected cells Only
