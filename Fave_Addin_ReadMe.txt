@@ -19,8 +19,7 @@ Convert to Number
 A1 Cell
   • All Sheets on A1 Cell
 Remove Formula
-  • 
-Selected cells Only
+  • Selected cells Only
   • 
 Active Sheet as Value
   • 
