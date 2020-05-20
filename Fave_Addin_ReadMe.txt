@@ -21,7 +21,6 @@ A1 Cell
 Remove Formula
   • Selected cells Only
   • Active Sheet as Value
-  • 
 Hide Sheets
   • 
 Unhide Sheets
