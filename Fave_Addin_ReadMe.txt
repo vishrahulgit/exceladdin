@@ -21,6 +21,7 @@ High Security
 
 Convert to Number
   • Select Cells Convert to Number
+
 A1 Cell
   • All Sheets on A1 Cell
 Remove Formula
