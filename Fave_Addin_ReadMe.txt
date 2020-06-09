@@ -20,9 +20,9 @@ Selected cells Only
 Active Sheet as Value
   • 
 Hide Sheets
-  •
+  • 
 Unhide Sheets
-  •
+  • 
 Compress
   • Compress - resize excel
   • Compress - Clear Row-n-Col
