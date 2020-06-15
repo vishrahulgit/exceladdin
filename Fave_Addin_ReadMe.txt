@@ -2,13 +2,14 @@ Name of the Addin: RahulVish_RV
 
 Addin features:
 RahulVish
-  • 
-  • 
+  • Addin Author
+  • Addin Guidelines
   • 
 Low Security
   • 
   • 
 Medium Security
+  • 
   • 
 High Security
   • 
