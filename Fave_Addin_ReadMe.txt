@@ -38,6 +38,7 @@ Unhide Sheets
 Compress
   • Compress - resize excel
   • Compress - Clear Row-n-Col
+
 File Classification
   • File Classification - Tag Restricted
   • File Classification - Tag Confidential
