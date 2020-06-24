@@ -33,7 +33,7 @@ Hide Sheets
   • Hide Sheets Popup Message
 
 Unhide Sheets
-  • 
+  • Unhide Sheets All Sheets
 
 Compress
   • Compress - resize excel
