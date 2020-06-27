@@ -36,7 +36,7 @@ Unhide Sheets
   • Unhide Sheets All Sheets
 
 Compress
-  • Compress - resize excel
+  • Compress - Resize excel
   • Compress - Clear Row-n-Col
 
 File Classification
