@@ -2,7 +2,7 @@ Name of the Addin: RahulVish_RV
 
 Addin features:
 RahulVish Author Info
-  •
+  • 
 Low Security
   •
 Medium Security
@@ -26,6 +26,7 @@ Unhide Sheets
 Compress
   • Compress - resize excel
   • Compress - Clear Row-n-Col
+
 File Classification
   • File Classification - Tag Restricted
   • File Classification - Tag Confidential
@@ -33,4 +34,4 @@ File Classification
   • File Classification - Tag Public
 
 Admin Mode
-
+  • 
