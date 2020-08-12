@@ -30,7 +30,7 @@ File Classification
   • File Classification - Tag Restricted
   • File Classification - Tag Confidential
   • File Classification - Tag Internal
-File Classification - Tag Public
+  • File Classification - Tag Public
 
 Admin Mode
 
