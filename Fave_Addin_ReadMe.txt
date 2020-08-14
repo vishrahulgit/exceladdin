@@ -23,10 +23,9 @@ Remove Formula
   • Selected cells Only
   • Active Sheet as Value
 Hide Sheets
-  • Hide Sheets Popup Message
+  • Sheet and Hide Sheets Popup Message
 Unhide Sheets
-  • Unhide Sheets All Sheets
-
+  • Unhide Sheets All Hide Sheets
 Compress
   • Compress - Resize excel
   • Compress - Clear Row-n-Col
