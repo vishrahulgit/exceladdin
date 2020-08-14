@@ -23,7 +23,7 @@ Remove Formula
   • Selected cells Only
   • Active Sheet as Value
 Hide Sheets
-  • Sheet and Hide Sheets Popup Message
+  • Select and Hide Sheets from Popup Box
 Unhide Sheets
   • Unhide Sheets All Hide Sheets
 Compress
