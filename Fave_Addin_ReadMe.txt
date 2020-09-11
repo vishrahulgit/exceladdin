@@ -12,5 +12,6 @@ Hide Sheets
 Unhide Sheets
 Compress - resize excel
 Compress - Clear Row-n-Col
+File Classification - Tag Restricted
 
 
