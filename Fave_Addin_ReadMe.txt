@@ -21,7 +21,6 @@ Convert to Number
   • Select Cells Convert to Number
 A1 Cell
   • All Sheets on A1 Cell
-
 Remove Formula
   • Selected cells Only
   • Active Sheet as Value
@@ -32,7 +31,6 @@ Unhide Sheets
 Compress
   • Compress - Resize excel
   • Compress - Clear Row-n-Col
-
 File Classification
   • File Classification - Tag Restricted
   • File Classification - Tag Confidential
