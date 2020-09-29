@@ -37,7 +37,6 @@ File Classification
   • File Classification - Tag Internal
   • File Classification - Tag Public
 Admin Mode (Needs Addition Password to Access)
-  • Break Code
-
+  • Break Code for Any Excel Files
 
 
