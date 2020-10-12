@@ -1,7 +1,9 @@
 Name of the Addin: RahulVish_RV
+
 Addin features:
-RahulVish Author Info
-Low Security
+•RahulVish Author Info
+
+•Low Security
 Medium Security
 High Security
 Select Cells Convert to Number
