@@ -17,3 +17,5 @@ File Classification - Tag Confidential
 File Classification - Tag Internal
 File Classification - Tag Public
 
+Admin Mode
+
