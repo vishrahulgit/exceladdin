@@ -1,4 +1,4 @@
-*Name of the Addin:* RahulVish_RV
+*_Name of the Addin:_* RahulVish_RV
 
 Brief Summary:
 Addin created to help in basic Excel Activities
