@@ -17,7 +17,7 @@ Addin created to help in basic Excel Activities
  
   _• Protect
   
-  • Unprotect
+  _• Unprotect
   
  **Medium Security**
   • Protect
