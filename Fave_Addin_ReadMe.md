@@ -26,8 +26,9 @@ Addin created to help in basic Excel Activities
   _• Unprotect
   
  **High Security **
+ 
   _• Protect
-  • Unprotect
+  _• Unprotect
   
  **Convert to Number **
   • Select Cells Convert to Number
