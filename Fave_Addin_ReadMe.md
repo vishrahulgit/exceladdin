@@ -32,7 +32,7 @@ Addin created to help in basic Excel Activities
   _• Unprotect
   
  **Convert to Number **
-  • Select Cells Convert to Number
+  _• Select Cells Convert to Number
   
  **A1 Cell **
   • All Sheets on A1 Cell
