@@ -22,7 +22,7 @@ Addin created to help in basic Excel Activities
  **Medium Security**
  
   _• Protect
-  • Unprotect
+  _• Unprotect
   
  **High Security **
   • Protect
