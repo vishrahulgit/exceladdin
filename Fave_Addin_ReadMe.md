@@ -22,10 +22,11 @@ Addin created to help in basic Excel Activities
  **Medium Security**
  
   _• Protect
+  
   _• Unprotect
   
  **High Security **
-  • Protect
+  _• Protect
   • Unprotect
   
  **Convert to Number **
