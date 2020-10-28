@@ -51,6 +51,7 @@ Addin created to help in basic Excel Activities
  **Unhide Sheets **
  
   • Unhide Sheets All Hide Sheets
+  
  **Compress **
   • Compress - Resize excel
   • Compress - Clear Row-n-Col
