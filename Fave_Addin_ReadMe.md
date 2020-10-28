@@ -36,7 +36,9 @@ Addin created to help in basic Excel Activities
   _• Select Cells Convert to Number
   
  **A1 Cell **
+ 
   _• All Sheets on A1 Cell
+  
  **Remove Formula **
   • Selected cells Only
   • Active Sheet as Value
