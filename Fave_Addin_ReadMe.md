@@ -43,6 +43,7 @@ Addin created to help in basic Excel Activities
  
   • Selected cells Only
   • Active Sheet as Value
+  
  **Hide Sheets **
   • Select and Hide Sheets from Popup Box
  **Unhide Sheets **
