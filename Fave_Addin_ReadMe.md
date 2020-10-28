@@ -56,6 +56,7 @@ Addin created to help in basic Excel Activities
  
   • Compress - Resize excel
   • Compress - Clear Row-n-Col
+  
  **File Classification **
   • File Classification - Tag Restricted
   • File Classification - Tag Confidential
