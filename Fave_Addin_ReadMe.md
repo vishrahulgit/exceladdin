@@ -51,7 +51,7 @@ Addin created to help in basic Excel Activities
   
  **Unhide Sheets **
  
-  _• Unhide Sheets All Hide Sheets
+  _• Unhide Sheets All Hide Sheets_
   
  **Compress **
  
