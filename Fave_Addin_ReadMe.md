@@ -41,7 +41,7 @@ Addin created to help in basic Excel Activities
   
  **Remove Formula **
  
-  _• Selected cells Only
+  _• Selected cells Only_
   
   _• Active Sheet as Value
   
