@@ -43,7 +43,7 @@ Addin created to help in basic Excel Activities
  
   _• Selected cells Only_
   
-  _• Active Sheet as Value
+  _• Active Sheet as Value_
   
  **Hide Sheets **
  
