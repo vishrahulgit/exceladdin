@@ -63,7 +63,7 @@ Addin created to help in basic Excel Activities
  
   _• File Classification - Tag Restricted_
   
-  _• File Classification - Tag Confidential
+  _• File Classification - Tag Confidential_
   _• File Classification - Tag Internal
   _• File Classification - Tag Public
   
