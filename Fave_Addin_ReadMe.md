@@ -55,9 +55,9 @@ Addin created to help in basic Excel Activities
   
  **Compress **
  
-  _• Compress - Resize excel
+  _• Compress - Resize excel_
   
-  _• Compress - Clear Row-n-Col
+  _• Compress - Clear Row-n-Col_
   
  **File Classification **
  
