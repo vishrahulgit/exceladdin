@@ -31,7 +31,7 @@ Addin created to help in basic Excel Activities
   
  **A1 Cell **
   • All Sheets on A1 Cell
-Remove Formula
+ **Remove Formula **
   • Selected cells Only
   • Active Sheet as Value
 Hide Sheets
