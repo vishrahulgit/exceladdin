@@ -38,7 +38,7 @@ Addin created to help in basic Excel Activities
   • Select and Hide Sheets from Popup Box
  **Unhide Sheets **
   • Unhide Sheets All Hide Sheets
-Compress
+ **Compress
   • Compress - Resize excel
   • Compress - Clear Row-n-Col
 File Classification
