@@ -34,7 +34,7 @@ Addin created to help in basic Excel Activities
  **Remove Formula **
   • Selected cells Only
   • Active Sheet as Value
-Hide Sheets
+ **Hide Sheets **
   • Select and Hide Sheets from Popup Box
 Unhide Sheets
   • Unhide Sheets All Hide Sheets
