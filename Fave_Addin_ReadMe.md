@@ -22,10 +22,10 @@ Addin created to help in basic Excel Activities
   • Protect
   • Unprotect
   
-High Security
+ **High Security **
   • Protect
   • Unprotect
-Convert to Number
+ **Convert to Number **
   • Select Cells Convert to Number
 A1 Cell
   • All Sheets on A1 Cell
