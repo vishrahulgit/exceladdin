@@ -36,7 +36,7 @@ Addin created to help in basic Excel Activities
   • Active Sheet as Value
  **Hide Sheets **
   • Select and Hide Sheets from Popup Box
-Unhide Sheets
+ **Unhide Sheets **
   • Unhide Sheets All Hide Sheets
 Compress
   • Compress - Resize excel
