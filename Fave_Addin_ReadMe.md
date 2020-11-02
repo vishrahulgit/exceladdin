@@ -5,18 +5,19 @@ Addin created to help in basic Excel Activities
 
 **Addin features:**
 
-**RahulVish**
+ **RahulVish**
 
   _• Addin Author_
+  
   _• Addin Guidelines_
   
-  • Contact Author
-  
+  _• Contact Author_  
 
-Low Security
+ **Low Security**
+ 
   • Protect
   • Unprotect
-Medium Security
+ **Medium Security
   • Protect
   • Unprotect
 High Security
