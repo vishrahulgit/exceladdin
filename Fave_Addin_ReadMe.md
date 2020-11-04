@@ -42,7 +42,7 @@ Addin created to help in basic Excel Activities
  **Remove Formula **
  
   _• Selected cells Only
-  • Active Sheet as Value
+  _• Active Sheet as Value
   
  **Hide Sheets **
  
