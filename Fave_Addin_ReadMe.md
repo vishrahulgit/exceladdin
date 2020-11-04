@@ -46,7 +46,7 @@ Addin created to help in basic Excel Activities
   
  **Hide Sheets **
  
-  • Select and Hide Sheets from Popup Box
+  _• Select and Hide Sheets from Popup Box
   
  **Unhide Sheets **
  
