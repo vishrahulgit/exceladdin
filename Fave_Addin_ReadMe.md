@@ -65,6 +65,7 @@ Addin created to help in basic Excel Activities
   • File Classification - Tag Public
   
  **Admin Mode (Needs Addition Password to Access) **
+ 
   • Break Code for Any Excel Files
 
 
