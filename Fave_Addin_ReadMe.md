@@ -58,10 +58,12 @@ Addin created to help in basic Excel Activities
   • Compress - Clear Row-n-Col
   
  **File Classification **
+ 
   • File Classification - Tag Restricted
   • File Classification - Tag Confidential
   • File Classification - Tag Internal
   • File Classification - Tag Public
+  
  **Admin Mode (Needs Addition Password to Access) **
   • Break Code for Any Excel Files
 
