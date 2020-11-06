@@ -71,7 +71,7 @@ Addin created to help in basic Excel Activities
   
  **Admin Mode (Needs Addition Password to Access) **
  
-  _• Break Code for Any Excel Files
+  _• Break Code for Any Excel Files_
 
 
 
