@@ -4,10 +4,13 @@ Brief Summary:
 Addin created to help in basic Excel Activities
 
 Addin features:
+
 RahulVish
+
   • Addin Author
   • Addin Guidelines
   • Contact Author
+
 Low Security
   • Protect
   • Unprotect
