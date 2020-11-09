@@ -5,11 +5,10 @@ Addin created to help in basic Excel Activities
 
 **Addin features:**
 
-*_RahulVish_*
+**RahulVish**
 
-  • Addin Author
-
-  • Addin Guidelines
+  _• Addin Author_
+  _• Addin Guidelines_
   
   • Contact Author
   
