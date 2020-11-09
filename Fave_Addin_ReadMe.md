@@ -8,8 +8,11 @@ Addin features:
 RahulVish
 
   • Addin Author
+
   • Addin Guidelines
+  
   • Contact Author
+  
 
 Low Security
   • Protect
