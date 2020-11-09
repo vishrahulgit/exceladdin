@@ -3,9 +3,9 @@
 **Brief Summary:**
 Addin created to help in basic Excel Activities
 
-Addin features:
+**Addin features:**
 
-__RahulVish__
+*_RahulVish_*
 
   • Addin Author
 
