@@ -62,7 +62,7 @@ Addin created to help in basic Excel Activities
  
   _• File Classification - Tag Restricted
   _• File Classification - Tag Confidential
-  • File Classification - Tag Internal
+  _• File Classification - Tag Internal
   • File Classification - Tag Public
   
  **Admin Mode (Needs Addition Password to Access) **
