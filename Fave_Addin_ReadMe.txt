@@ -4,6 +4,7 @@ Addin features:
 RahulVish Author Info
   •
 Low Security
+  •
 Medium Security
 High Security
 Select Cells Convert to Number
