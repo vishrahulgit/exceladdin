@@ -27,7 +27,7 @@ Addin created to help in basic Excel Activities
   
  **High Security **
  
-  _• Protect
+  _• Protect_
   
   _• Unprotect
   
