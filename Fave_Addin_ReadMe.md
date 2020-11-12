@@ -37,7 +37,7 @@ Addin created to help in basic Excel Activities
   
  **A1 Cell **
  
-  _• All Sheets on A1 Cell
+  _• All Sheets on A1 Cell_
   
  **Remove Formula **
  
