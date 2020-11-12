@@ -33,7 +33,7 @@ Addin created to help in basic Excel Activities
   
  **Convert to Number **
  
-  _• Select Cells Convert to Number
+  _• Select Cells Convert to Number_
   
  **A1 Cell **
  
