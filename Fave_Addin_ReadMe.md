@@ -6,7 +6,7 @@ _*Addin created to help in basic Excel Activities*_
 
 **Addin features:**
 
- **RahulVish**
+ *RahulVish*
 
   _• Addin Author_
   
@@ -14,53 +14,53 @@ _*Addin created to help in basic Excel Activities*_
   
   _• Contact Author_  
 
- **Low Security**
+ *Low Security*
  
   _• Protect_
   
   _• Unprotect_
   
- **Medium Security**
+ *Medium Security*
  
   _• Protect_
   
   _• Unprotect_
   
- **High Security **
+ *High Security*
  
   _• Protect_
   
   _• Unprotect_
   
- **Convert to Number **
+ *Convert to Number*
  
   _• Select Cells Convert to Number_
   
- **A1 Cell **
+ *A1 Cell*
  
   _• All Sheets on A1 Cell_
   
- **Remove Formula **
+ *Remove Formula*
  
   _• Selected cells Only_
   
   _• Active Sheet as Value_
   
- **Hide Sheets **
+ *Hide Sheets*
  
   _• Select and Hide Sheets from Popup Box_
   
- **Unhide Sheets **
+ *Unhide Sheets*
  
   _• Unhide Sheets All Hide Sheets_
   
- **Compress **
+ *Compress*
  
   _• Compress - Resize excel_
   
   _• Compress - Clear Row-n-Col_
   
- **File Classification **
+ *File Classification*
  
   _• File Classification - Tag Restricted_
   
@@ -70,6 +70,6 @@ _*Addin created to help in basic Excel Activities*_
   
   _• File Classification - Tag Public_
   
- **Admin Mode (Needs Addition Password to Access) **
+ *Admin Mode (Needs Addition Password to Access)*
  
   _• Break Code for Any Excel Files_
