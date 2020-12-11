@@ -2,7 +2,7 @@
 
 **Brief Summary:**
 
-Addin created to help in basic Excel Activities
+_*Addin created to help in basic Excel Activities*_
 
 **Addin features:**
 
